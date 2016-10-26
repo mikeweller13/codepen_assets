@@ -1,0 +1,6 @@
+[
+	{"team": "Seahawks", "wins":4, "losses":1, "ties":1},
+	{"team": "Cardinals", "wins":3, "losses":3, "ties":1},
+	{"team": "Rams", "wins":3, "losses":4, "ties":0},
+	{"team": "49ers", "wins":1, "losses":6, "ties":0}
+]
